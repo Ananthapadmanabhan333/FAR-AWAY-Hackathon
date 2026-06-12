@@ -23,3 +23,6 @@ Built for the **FAR AWAY Hackathon**.
 2. Allow Gradle to sync.
 3. Ensure you have a physical device to test native hardware features (BLE, SMS, AudioRecord).
 4. Run the app!
+
+
+Built by Ananthapadmanabhan 
